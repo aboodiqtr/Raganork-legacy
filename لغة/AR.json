@@ -1,0 +1,212 @@
+<font></font>
+{<font></font>
+    "loadingRecords": "جارٍ التحميل...",<font></font>
+    "lengthMenu": "أظهر _MENU_ مدخلات",<font></font>
+    "zeroRecords": "لم يعثر على أية سجلات",<font></font>
+    "info": "إظهار _START_ إلى _END_ من أصل _TOTAL_ مدخل",<font></font>
+    "search": "ابحث:",<font></font>
+    "paginate": {<font></font>
+        "first": "الأول",<font></font>
+        "previous": "السابق",<font></font>
+        "next": "التالي",<font></font>
+        "last": "الأخير"<font></font>
+    },<font></font>
+    "aria": {<font></font>
+        "sortAscending": ": تفعيل لترتيب العمود تصاعدياً",<font></font>
+        "sortDescending": ": تفعيل لترتيب العمود تنازلياً"<font></font>
+    },<font></font>
+    "select": {<font></font>
+        "rows": {<font></font>
+            "_": "%d قيمة محددة",<font></font>
+            "1": "1 قيمة محددة"<font></font>
+        },<font></font>
+        "cells": {<font></font>
+            "1": "1 خلية محددة",<font></font>
+            "_": "%d خلايا محددة"<font></font>
+        },<font></font>
+        "columns": {<font></font>
+            "1": "1 عمود محدد",<font></font>
+            "_": "%d أعمدة محددة"<font></font>
+        }<font></font>
+    },<font></font>
+    "buttons": {<font></font>
+        "print": "طباعة",<font></font>
+        "copyKeys": "زر <i>ctrl<\/i> أو <i>⌘<\/i> + <i>C<\/i> من الجدول<br>ليتم نسخها إلى الحافظة<br><br>للإلغاء اضغط على الرسالة أو اضغط على زر الخروج.",<font></font>
+        "pageLength": {<font></font>
+            "-1": "اظهار الكل",<font></font>
+            "_": "إظهار %d أسطر"<font></font>
+        },<font></font>
+        "collection": "مجموعة",<font></font>
+        "copy": "نسخ",<font></font>
+        "copyTitle": "نسخ إلى الحافظة",<font></font>
+        "csv": "CSV",<font></font>
+        "excel": "Excel",<font></font>
+        "pdf": "PDF",<font></font>
+        "colvis": "إظهار الأعمدة",<font></font>
+        "colvisRestore": "إستعادة العرض",<font></font>
+        "copySuccess": {<font></font>
+            "1": "تم نسخ سطر واحد الى الحافظة",<font></font>
+            "_": "تم نسخ %ds أسطر الى الحافظة"<font></font>
+        }<font></font>
+    },<font></font>
+    "searchBuilder": {<font></font>
+        "add": "اضافة شرط",<font></font>
+        "clearAll": "ازالة الكل",<font></font>
+        "condition": "الشرط",<font></font>
+        "data": "المعلومة",<font></font>
+        "logicAnd": "و",<font></font>
+        "logicOr": "أو",<font></font>
+        "title": [<font></font>
+            "منشئ البحث"<font></font>
+        ],<font></font>
+        "value": "القيمة",<font></font>
+        "conditions": {<font></font>
+            "date": {<font></font>
+                "after": "بعد",<font></font>
+                "before": "قبل",<font></font>
+                "between": "بين",<font></font>
+                "empty": "فارغ",<font></font>
+                "equals": "تساوي",<font></font>
+                "notBetween": "ليست بين",<font></font>
+                "notEmpty": "ليست فارغة",<font></font>
+                "not": "ليست "<font></font>
+            },<font></font>
+            "number": {<font></font>
+                "between": "بين",<font></font>
+                "empty": "فارغة",<font></font>
+                "equals": "تساوي",<font></font>
+                "gt": "أكبر من",<font></font>
+                "lt": "أقل من",<font></font>
+                "not": "ليست",<font></font>
+                "notBetween": "ليست بين",<font></font>
+                "notEmpty": "ليست فارغة",<font></font>
+                "gte": "أكبر أو تساوي",<font></font>
+                "lte": "أقل أو تساوي"<font></font>
+            },<font></font>
+            "string": {<font></font>
+                "not": "ليست",<font></font>
+                "notEmpty": "ليست فارغة",<font></font>
+                "startsWith": " تبدأ بـ ",<font></font>
+                "contains": "تحتوي",<font></font>
+                "empty": "فارغة",<font></font>
+                "endsWith": "تنتهي ب",<font></font>
+                "equals": "تساوي",<font></font>
+                "notContains": "لا تحتوي",<font></font>
+                "notStarts": "لا تبدأ بـ",<font></font>
+                "notEnds": "لا تنتهي بـ"<font></font>
+            },<font></font>
+            "array": {<font></font>
+                "equals": "تساوي",<font></font>
+                "empty": "فارغة",<font></font>
+                "contains": "تحتوي",<font></font>
+                "not": "ليست",<font></font>
+                "notEmpty": "ليست فارغة",<font></font>
+                "without": "بدون"<font></font>
+            }<font></font>
+        },<font></font>
+        "button": {<font></font>
+            "0": "فلاتر البحث",<font></font>
+            "_": "فلاتر البحث (%d)"<font></font>
+        },<font></font>
+        "deleteTitle": "حذف فلاتر"<font></font>
+    },<font></font>
+    "searchPanes": {<font></font>
+        "clearMessage": "ازالة الكل",<font></font>
+        "collapse": {<font></font>
+            "0": "بحث",<font></font>
+            "_": "بحث (%d)"<font></font>
+        },<font></font>
+        "count": "عدد",<font></font>
+        "countFiltered": "عدد المفلتر",<font></font>
+        "loadMessage": "جارِ التحميل ...",<font></font>
+        "title": "الفلاتر النشطة",<font></font>
+        "showMessage": "إظهار الجميع",<font></font>
+        "collapseMessage": "إخفاء الجميع"<font></font>
+    },<font></font>
+    "infoThousands": ",",<font></font>
+    "datetime": {<font></font>
+        "previous": "السابق",<font></font>
+        "next": "التالي",<font></font>
+        "hours": "الساعة",<font></font>
+        "minutes": "الدقيقة",<font></font>
+        "seconds": "الثانية",<font></font>
+        "unknown": "-",<font></font>
+        "amPm": [<font></font>
+            "صباحا",<font></font>
+            "مساءا"<font></font>
+        ],<font></font>
+        "weekdays": [<font></font>
+            "الأحد",<font></font>
+            "الإثنين",<font></font>
+            "الثلاثاء",<font></font>
+            "الأربعاء",<font></font>
+            "الخميس",<font></font>
+            "الجمعة",<font></font>
+            "السبت"<font></font>
+        ],<font></font>
+        "months": [<font></font>
+            "يناير",<font></font>
+            "فبراير",<font></font>
+            "مارس",<font></font>
+            "أبريل",<font></font>
+            "مايو",<font></font>
+            "يونيو",<font></font>
+            "يوليو",<font></font>
+            "أغسطس",<font></font>
+            "سبتمبر",<font></font>
+            "أكتوبر",<font></font>
+            "نوفمبر",<font></font>
+            "ديسمبر"<font></font>
+        ]<font></font>
+    },<font></font>
+    "editor": {<font></font>
+        "close": "إغلاق",<font></font>
+        "create": {<font></font>
+            "button": "إضافة",<font></font>
+            "title": "إضافة جديدة",<font></font>
+            "submit": "إرسال"<font></font>
+        },<font></font>
+        "edit": {<font></font>
+            "button": "تعديل",<font></font>
+            "title": "تعديل السجل",<font></font>
+            "submit": "تحديث"<font></font>
+        },<font></font>
+        "remove": {<font></font>
+            "button": "حذف",<font></font>
+            "title": "حذف",<font></font>
+            "submit": "حذف",<font></font>
+            "confirm": {<font></font>
+                "_": "هل أنت متأكد من رغبتك في حذف السجلات %d المحددة؟",<font></font>
+                "1": "هل أنت متأكد من رغبتك في حذف السجل؟"<font></font>
+            }<font></font>
+        },<font></font>
+        "error": {<font></font>
+            "system": "حدث خطأ ما"<font></font>
+        },<font></font>
+        "multi": {<font></font>
+            "title": "قيم متعدية",<font></font>
+            "restore": "تراجع"<font></font>
+        }<font></font>
+    },<font></font>
+    "processing": "جارٍ المعالجة...",<font></font>
+    "emptyTable": "لا يوجد بيانات متاحة في الجدول",<font></font>
+    "infoEmpty": "يعرض 0 إلى 0 من أصل 0 مُدخل",<font></font>
+    "thousands": ".",<font></font>
+    "stateRestore": {<font></font>
+        "creationModal": {<font></font>
+            "columns": {<font></font>
+                "search": "إمكانية البحث للعمود",<font></font>
+                "visible": "إظهار العمود"<font></font>
+            },<font></font>
+            "toggleLabel": "تتضمن"<font></font>
+        }<font></font>
+    },<font></font>
+    "autoFill": {<font></font>
+        "cancel": "إلغاء الامر",<font></font>
+        "fill": "املأ كل الخلايا بـ <i>%d<\/i>",<font></font>
+        "fillHorizontal": "تعبئة الخلايا أفقيًا",<font></font>
+        "fillVertical": "تعبئة الخلايا عموديا"<font></font>
+    },<font></font>
+    "decimal": ",",<font></font>
+    "infoFiltered": "(مرشحة من مجموع _MAX_ مُدخل)"<font></font>
+}  <font></font>
